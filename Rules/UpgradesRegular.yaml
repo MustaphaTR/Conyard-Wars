@@ -673,7 +673,7 @@ Upgrade.heliUpgradeDamage:
 	Tooltip:
 		Name: Apache Longbow - Damage
 	Buildable:
-		BuildPaletteOrder: 150
+		BuildPaletteOrder: 140
 		Prerequisites: airfact2
 		Queue: Infantry1.Fact
 		BuildLimit: 1
@@ -690,7 +690,7 @@ Upgrade.heliUpgradeHealth:
 	Tooltip:
 		Name: Apache Longbow - Health
 	Buildable:
-		BuildPaletteOrder: 151
+		BuildPaletteOrder: 141
 		Prerequisites: airfact2
 		Queue: Infantry1.Fact
 		BuildLimit: 1
@@ -707,7 +707,7 @@ Upgrade.heliUpgradeReload:
 	Tooltip:
 		Name: Apache Longbow - Range
 	Buildable:
-		BuildPaletteOrder: 152
+		BuildPaletteOrder: 142
 		Prerequisites: airfact2
 		Queue: Infantry1.Fact
 		BuildLimit: 1
@@ -725,7 +725,7 @@ Upgrade.orcaUpgradeDamage:
 	Tooltip:
 		Name: Orca - Damage
 	Buildable:
-		BuildPaletteOrder: 140
+		BuildPaletteOrder: 150
 		Prerequisites: airfact1
 		Queue: Infantry1.Fact
 		BuildLimit: 1
@@ -742,7 +742,7 @@ Upgrade.orcaUpgradeHealth:
 	Tooltip:
 		Name: Orca - Health
 	Buildable:
-		BuildPaletteOrder: 141
+		BuildPaletteOrder: 151
 		Prerequisites: airfact1
 		Queue: Infantry1.Fact
 		BuildLimit: 1
@@ -759,7 +759,7 @@ Upgrade.orcaUpgradeRange:
 	Tooltip:
 		Name: Orca - Range
 	Buildable:
-		BuildPaletteOrder: 142
+		BuildPaletteOrder: 152
 		Prerequisites: airfact1
 		Queue: Infantry1.Fact
 		BuildLimit: 1
@@ -776,7 +776,7 @@ Upgrade.hunterUpgradeDamage:
 	Tooltip:
 		Name: Orca Hunter - Damage
 	Buildable:
-		BuildPaletteOrder: 143
+		BuildPaletteOrder: 156
 		Prerequisites: airfacthunter
 		Queue: Infantry1.Fact
 		BuildLimit: 1
@@ -793,7 +793,7 @@ Upgrade.hunterUpgradeHealth:
 	Tooltip:
 		Name: Orca Hunter - Health
 	Buildable:
-		BuildPaletteOrder: 144
+		BuildPaletteOrder: 157
 		Prerequisites: airfacthunter
 		Queue: Infantry1.Fact
 		BuildLimit: 1
@@ -810,7 +810,7 @@ Upgrade.hunterUpgradeRange:
 	Tooltip:
 		Name: Orca Hunter - Range
 	Buildable:
-		BuildPaletteOrder: 145
+		BuildPaletteOrder: 158
 		Prerequisites: airfacthunter
 		Queue: Infantry1.Fact
 		BuildLimit: 1
@@ -827,7 +827,7 @@ Upgrade.hindUpgradeDamage:
 	Tooltip:
 		Name: Hind - Damage 
 	Buildable:
-		BuildPaletteOrder: 146
+		BuildPaletteOrder: 153
 		Prerequisites: airfacthind
 		Queue: Infantry1.Fact
 		BuildLimit: 1
@@ -844,7 +844,7 @@ Upgrade.hindUpgradeHealth:
 	Tooltip:
 		Name: Hind - Health
 	Buildable:
-		BuildPaletteOrder: 147
+		BuildPaletteOrder: 154
 		Prerequisites: airfacthind
 		Queue: Infantry1.Fact
 		BuildLimit: 1
@@ -861,7 +861,7 @@ Upgrade.hindUpgradeReload:
 	Tooltip:
 		Name: Hind - Range
 	Buildable:
-		BuildPaletteOrder: 148
+		BuildPaletteOrder: 155
 		Prerequisites: airfacthind
 		Queue: Infantry1.Fact
 		BuildLimit: 1

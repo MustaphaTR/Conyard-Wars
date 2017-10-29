@@ -951,7 +951,7 @@ AIRFACT1:
 		Name: Orca Helipad
 	Buildable:
 		BuildDuration: 300
-		BuildPaletteOrder: 140
+		BuildPaletteOrder: 145
 		Queue: Building.Fact
 		Prerequisites: dome
 		Description: Type: Aircraft\n\nGood Against:\n  Vehicles, Structure\n\nBad Against:\n  Infantry\n\nUpgrade: TV Missile\n\nUpgraded Good Against:\n  Vehicles, Structure, Air\n\nUpgraded Bad Against:\n  Infantry
@@ -994,7 +994,7 @@ AIRFACT2:
 		Name: Apache Longbow Helipad
 	Buildable:
 		BuildDuration: 300
-		BuildPaletteOrder: 150
+		BuildPaletteOrder: 140
 		Queue: Building.Fact
 		Prerequisites: cflarf
 		Description: Type: Aircraft\n\nGood Against:\n  Infantry, Artillery\n\nBad Against:\n  Tanks\n\nUpgrade: Sniper\n\nUpgraded Superior Against:\n  Infantry
@@ -1039,7 +1039,7 @@ AIRFACTHIND:
 	Buildable:
 		BuildDuration: 300
 		IconPalette: ra
-		BuildPaletteOrder: 137
+		BuildPaletteOrder: 150
 		Queue: Building.Fact
 		Prerequisites: dome, nukenew
 		Description: Type: Aircraft\n\nGood Against:\n  Ground\n\nBad Against:\n  Air\n\nUpgrade: Flame Bombs\n\nUpgraded Superior Against:\n  Ground\n\nUpgraded Bad Against:\n  Air
@@ -1079,7 +1079,7 @@ AIRFACTHUNTER:
 		Name: Orca Hunter Helipad
 	Buildable:
 		BuildDuration: 300
-		BuildPaletteOrder: 137
+		BuildPaletteOrder: 155
 		Queue: Building.Fact
 		Prerequisites: dome, lammo
 		Description: Type: Aircraft\n\nGood Against:\n  Vehicles, Structures, Air\n\nBad Against:\n  Infantry\n\nUpgrade: Tusk Lasers\n\nUpgraded Good Against:\n  All\n\nUpgraded Bad against:\n  Long Range\n\n\nUpgraded weapon has less range than normal.
